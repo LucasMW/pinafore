@@ -100,6 +100,12 @@ const themes = [
     label: 'Dark Grayscale',
     dark: true,
     color: '#666'
+  },
+  {
+    name: 'gab',
+    label: 'Gabby001', // user-visible name
+    color: 'green', // main theme color
+    dark: false // whether it's a dark theme or not
   }
 ]
 
